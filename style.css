@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
     }
 
 
@@ -19,7 +20,10 @@
     transform: translate(-50%, -50%);
     background-color:#FF8C00;
     border-radius:5px;
-    padding: 50px;
+    padding: 30px;
+    margin-top: 20px;
+    
+    
     
     
 }
@@ -61,6 +65,8 @@
     border-radius: 5px;
     font-family: 'Lato', sans-serif;
     font-size: 15px;
+    background-color:black;
+    color: white;
     
 
 }
@@ -71,10 +77,18 @@ button:hover{
 }
 
 .resultado{
+    background-color: black;
+    width: 230px;
+    height: 100px;
     font-family: 'Lato', sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
-    color: black;
+    color: rgb(255, 255, 255);
+    border-radius:5px;
+    align-items: center;
+    padding-left: 10px;
+    padding-top: 20px;
+    
     
     
 }
