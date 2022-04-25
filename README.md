@@ -1,3 +1,3 @@
 # Calculadora-IMC
 
-### Calculadora feita em html5, estilizada em css3 e em javascript
+### Calculadora de índice de massa corporal. Feita em HTML5, estilizada em CSS3 e utilizado JS para os cálculos das medidas.
